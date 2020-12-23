@@ -4,8 +4,7 @@ Cureently this is only available in Microsoft Web Store and soon will also be av
  ![alt text](https://github.com/csalam07/social-launcher/blob/main/screenshot/social-launcher.png?raw=true)
 
 # Links to download for your browser
-## for Microsoft Edge : 
-(will do update soon)
+## for Microsoft Edge : https://microsoftedge.microsoft.com/addons/detail/csalam-social-launcher/ljapoapihdpoplfhbbhenkcbpbhanjla
 ## for GOOGLE CHROME  : 
 (will do update soon)
 
